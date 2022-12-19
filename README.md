@@ -1,0 +1,2 @@
+# git-cours
+for everyone 
